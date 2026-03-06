@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: #92dfec;
+}
+
+nav {
+    background-color: #118094;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
